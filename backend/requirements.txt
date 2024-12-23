@@ -1,0 +1,6 @@
+fasttext-wheel
+flask
+flask-cors
+torch
+transformers
+huggingface-hub
